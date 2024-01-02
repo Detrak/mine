@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        "url": "stratum+tcp://na.luckpool.com:3596",
+		"name": "ZeusMining",
+        "url": "stratum+tcp://na.zeusminingpool.com:3092",
 		"timeout": 150,
 		"disabled": 0
 	},
